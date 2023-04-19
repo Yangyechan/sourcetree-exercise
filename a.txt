@@ -1,2 +1,2 @@
 hello
-int mumOfStudent = 115;
+int mumOfStudent = 80;
